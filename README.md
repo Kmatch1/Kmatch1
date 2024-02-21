@@ -2,7 +2,7 @@
 - 👋 Hello, I’m Kim 
 - 👀 I’m interested in using my skills to build innovative software solutions
 - 🌱 I’m currently learning - JavaScript - improving my understanding of algorithms by doing [LeetCode](https://leetcode.com/) challenges daily.
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/kim-matchett)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/kim-matchett)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love fixing up computers and bicycles and am a watercolour artist.
 
