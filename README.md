@@ -1,5 +1,5 @@
 
-###  👋 I’m Kim, I’m a creative, analytical professional establishing a new career path as a software developer. I’m most fulfilled when applying my skills and experience to craft solutions and tackle problems.  
+###  👋 I’m Kim, founder of Second Joke Solutions.
 
 ###   📧 Connect with me on [LinkedIn](www.linkedin.com/in/kim-matchett)
 
